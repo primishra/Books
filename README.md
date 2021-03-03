@@ -13,4 +13,6 @@
 ##
 - I have also uploaded some books myself which I found useful and thought those could help you too.
 
+- Other Books can be downloaded from the websites like [PDF Drive](https://www.pdfdrive.com/) or [Library Genesis](https://libgen.is/).
+
 - Cheers!
