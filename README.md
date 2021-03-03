@@ -4,15 +4,10 @@
 
 ###
 ##
-- I have collected 100+ ML books from Weld Lucas Cunha's github profle.
-- Here is the link to his profile - [https://github.com/dwelcaslu](https://github.com/dwelcaslu).
-- And the link to the repository where he has uploaded the books - [https://github.com/dwelcaslu/machine-learning-books](https://github.com/dwelcaslu/machine-learning-books).
-- Kudos to him for collecting so many good books and sharing with everyone. So credits to him.
+- 100+ Machine Learning books - [https://github.com/dwelcaslu/machine-learning-books](https://github.com/dwelcaslu/machine-learning-books).
 
 ###
 ##
-- I have also uploaded some books myself which I found useful and thought those could help you too.
-
 - Other Books can be downloaded from websites like [PDF Drive](https://www.pdfdrive.com/) or [Library Genesis](https://libgen.is/).
 
 - Cheers!
