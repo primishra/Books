@@ -5,6 +5,7 @@
 ###
 ##
 - 100+ Machine Learning books - [https://github.com/dwelcaslu/machine-learning-books](https://github.com/dwelcaslu/machine-learning-books).
+- Python Data Science Books - [https://github.com/khuyentran1401/awesome-Python-data-science-books](https://github.com/khuyentran1401/awesome-Python-data-science-books)
 
 ###
 ##
